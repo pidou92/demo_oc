@@ -1,0 +1,6 @@
+Documentation du projet
+
+Un ptit programme php qui sais compter.
+Pour le lancer taper >php hello.php
+
+Attention: Vous devez avoir php d'installé.
